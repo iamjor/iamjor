@@ -1,4 +1,4 @@
-<h1 align="center">Jomar Oliver Reyes</h1>
+<h1 align="center">Hi, I'm Jomar 👋</h1>
 
 <p align="center">
   IT systems and infrastructure · Web and AI application development
